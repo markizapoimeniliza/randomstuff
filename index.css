@@ -1,0 +1,21 @@
+.ba {
+   background-color: orangered;
+   border-radius: 33%;
+   width: 500PX;
+   height: fit-content;
+   text-align: center;
+   font-size: 35px;
+   padding: 4%;
+   margin-bottom: 5%;
+}
+
+.ca {
+    background-color: orange;
+    border-radius: 33%;
+    width: 500PX;
+    height: fit-content;
+    text-align: center;
+    font-size: 35px;
+    padding: 4%;
+    margin-top: 5%;
+}
